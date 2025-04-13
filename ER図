@@ -1,5 +1,5 @@
 ### ER図
-[![Image from Gyazo](https://i.gyazo.com/3e61cbdad452e474fcd2c558416ed27f.jpg)](https://gyazo.com/3e61cbdad452e474fcd2c558416ed27f)
+[![Image from Gyazo](https://i.gyazo.com/b959d8fcd4d78582a5a2ecdd71743bdd.jpg)](https://gyazo.com/b959d8fcd4d78582a5a2ecdd71743bdd)
 ### 本サービスの概要（700文字以内）
   一般的なCRUD機能付き小説投稿サイトです。小説を読む際にCDNにアップロードした音源が流れる仕様にし、没入感を高めます。
   
