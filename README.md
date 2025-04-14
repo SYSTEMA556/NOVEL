@@ -1,3 +1,6 @@
+### ER図
+[![Image from Gyazo](https://i.gyazo.com/b959d8fcd4d78582a5a2ecdd71743bdd.jpg)](https://gyazo.com/b959d8fcd4d78582a5a2ecdd71743bdd)
+
 ■サービス概要
 ・具体的な利用イメージ
 ・読者　夜11時、ベッドに寝転んでスマホでXを開いていたAさん。#推しカプ小説祭2025のハッシュタグが目に入って、リンクをタップする。
